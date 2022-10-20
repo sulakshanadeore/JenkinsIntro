@@ -1,0 +1,39 @@
+
+Continuous Integration:
+
+Jenkins Introduction,Setting up Jenkins,Jenkins Security,Create a new Jenkins build project+demos
+Why Jenkins?
+it is used to build and test the product continuously, so developers can continuously integrate changes  into the build.
+
+
+
+
+
+----Product----
+
+	Develop
+			Unit Testing
+				Integrate the product 
+					Integration Testing
+
+
+			Acceptance Testing
+
+Production Server----->
+when there needs to be any updates to the product----> 
+develop---->unit testing done automatically-- reports of it also to be generated.
+repair----------> added delivery of the product.
+
+Continuous Integration & Continuous Delivery---->automatically be going to the production server.
+
+Phase---> Integrate---> Build---> Test---->Production server
+
+
+Sprint--- small period in which the process/es are planned,executed and put to production.
+
+
+Jenkins--- It is a platform for creating Continuous Integration and Continuous Delivery(CI/CD) environment.
+
+The system offers many different tools,  languages, and automation tasks to help in the pipeline creation when developing and deploying programs.
+
+
