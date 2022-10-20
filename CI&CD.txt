@@ -1,0 +1,38 @@
+CI/CD
+
+Continous Integration ----> integration of the work done by the team is done atleast once in a day.
+automation build----> to detect errors in integration.
+
+removing the integration errors.
+
+Devloped a software to detect errors done in the integration and redirect to respective team/people.
+Hudson.
+
+
+every commit code--->build-->successful---->test----->deployment---->production server.
+this cycle continues, and it is called continuous integration/continuous deployment.
+
+
+
+CD----->continuous delivery
+The main aim of CD----->continuous delivery is to build,test and release the software with good speed,
+and frequency.
+It will reduce cost,time and risk of delivering changes by allowing for frequent updates in production.
+
+
+CI/CD---. CI means an approach of testing each code change to the codebase automatically.
+whereas CD is an approach to obtain changes of new features,configuration and bug fixes.
+
+Advanatages of CI:
+
+1)Fewer bugs
+2) Regular commits
+3) regular releases/timely releases
+4) easy and effective integration
+5) testing happens very often
+6) fix to problems are faster and efficient
+7) better project visibility
+
+
+
+
